@@ -1,1 +1,1 @@
-<a href='https://president-md-session-id-0770bba46538.herokuapp.com/' target="_blank"><img alt='qr repo' src='https://img.shields.io/badge/Scan Qr code 1-blue?style=for-the-badge&logo=openv&logoColor=white'/></a>
+<a href='https://president-md-session-id-0770bba46538.herokuapp.com/' target="_blank"><img alt='qr repo' src='https://img.shields.io/badge/Scan Qr code 1-red?style=for-the-badge&logo=openv&logoColor=white'/></a>
