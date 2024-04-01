@@ -7,4 +7,4 @@
 <p align="center">
   <a aria-label="Join Support chats" href="https://chat.whatsapp.com/G3aoO7etNzeL27hGVDJktH" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a> />
+  </a> 
